@@ -29,9 +29,13 @@ list_success.forEach(element => {
 
 
 const about_fibro = [
-  'Detoks harian, membersihkan saluran pencernaan, membuang kotoran sisa - sisa makanan.',
-  'Vitamin dan mineral dari ekstrak sayuran & buah - buahan dengan rasa lemon.',
-  'Suplemen pendamping untuk program penurunan berat badan.'
+  'Tampil wangi dan percaya diri di depan suami.',
+  'Aromanya bikin kangen dan lembut.',
+  'Parfum Non Alkohol sehingga dapat digunakan saat sholat atau ibadah.',
+  'Tidak akan meninggalkan Noda dipakain karna non Alkohol.',
+  'Satu satunya parfum yang memiliki kandungan Bidara yang salah satu manfaatnya bisa mengusir Jin.',
+  'Wanginya cocok digunakan saat ke mesjid.',
+  'Menggunakan kemasan anti tumpah, aman untuk pengiriman luar kota.',
 ]
 
 let aboutFibro = document.querySelector('#aboutFibro')
