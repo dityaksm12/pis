@@ -343,7 +343,15 @@ iframe.ratio-16by9 {
     }
 
     .fixed-button-bottom {
-        width:100%;
+        width: 100%;
+    }
+
+    .text-review-testimoni {
+        padding-bottom: 0px !important;
+    }
+
+    .image-review-testimoni {
+        margin-bottom: 1rem !important;
     }
 }
 
