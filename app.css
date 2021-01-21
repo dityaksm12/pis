@@ -264,6 +264,10 @@ iframe.ratio-16by9 {
         padding: 40px 20px;
     }
 
+    .container.first {
+        padding-top: 30px !important;
+    }
+
     .container.second {
         padding-top: 40px !important;
     }
