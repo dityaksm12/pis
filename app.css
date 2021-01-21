@@ -259,17 +259,22 @@ iframe.ratio-16by9 {
     padding: 10px;
 }
 
+
 @media screen and (max-width: 768px) {
     .container {
         padding: 40px 20px;
     }
 
     .container.first {
-        padding-top: 30px !important;
+        padding: 30px 15px 1px 15px !important;
     }
 
     .container.second {
         padding-top: 40px !important;
+    }
+
+    .remove-padding-container{
+        padding: 0px 20px 1px 20px !important;
     }
 
     h1.italic {
